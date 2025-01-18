@@ -10,5 +10,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://fiona-meng.github.io/e-plantShopping/"
+  "homepage": "https://fiona-meng.github.io/e-plantShopping"
 }
