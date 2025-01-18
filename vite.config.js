@@ -6,8 +6,14 @@ export default defineConfig({
   base: '/e-plantShopping/',
   plugins: [react()],
   build: {
+<<<<<<< Updated upstream
     rollupOptions: {
       external: ['react-redux'],
     }
+=======
+    outDir: 'dist',
+    assetsDir: 'assets',
+    sourcemap: true,
+>>>>>>> Stashed changes
   }
 })
